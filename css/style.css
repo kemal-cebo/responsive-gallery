@@ -19,7 +19,7 @@
 .box {
     height: 144px;
     background-color: rgb(70, 70, 235);
-    background-image: url(../img/placeholder-image.png);
+    background-image: url("../img/placeholder-image.png");
 }
 
 @media screen and (max-width: 1024px) {
